@@ -1,0 +1,5 @@
+/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/.utmp/RelWithDebInfo/6d5a5u3q/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/.utmp/RelWithDebInfo/6d5a5u3q/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/.utmp/RelWithDebInfo/6d5a5u3q/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/.utmp/RelWithDebInfo/6d5a5u3q/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/.utmp/RelWithDebInfo/6d5a5u3q/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

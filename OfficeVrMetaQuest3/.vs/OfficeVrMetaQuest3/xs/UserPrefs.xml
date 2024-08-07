@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{341A1D90-4CF0-33BC-1E90-1FCE442CFF0E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneControllor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneControllor.cs" Line="58" Column="12" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/ARFoundation/ARAnchorManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2b4d9dc9-1e29-4d8f-a415-eaddb517d28c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,174 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.OfficeVrMetaQuest3"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="33" />
+10-->/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+11
+12    <supports-screens
+12-->/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-67
+19-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-64
+20
+21    <uses-feature
+21-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-14:35
+22        android:name="android.hardware.vulkan.version"
+22-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:9-55
+23        android:required="true" />
+23-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-32
+24    <uses-feature
+24-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-17:36
+25        android:name="android.hardware.touchscreen"
+25-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-52
+26        android:required="false" />
+26-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:9-33
+27    <uses-feature
+27-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:5-20:36
+28        android:name="android.hardware.touchscreen.multitouch"
+28-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:9-63
+29        android:required="false" />
+29-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-33
+30    <uses-feature
+30-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:5-23:36
+31        android:name="android.hardware.touchscreen.multitouch.distinct"
+31-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:9-72
+32        android:required="false" />
+32-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:9-33
+33    <uses-feature
+33-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:5-26:35
+34        android:name="com.oculus.feature.PASSTHROUGH"
+34-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:9-54
+35        android:required="true" />
+35-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:9-32
+36
+37    <uses-permission android:name="com.oculus.permission.USE_ANCHOR_API" />
+37-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:5-76
+37-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:22-73
+38    <uses-permission android:name="com.oculus.permission.USE_SCENE" />
+38-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:5-71
+38-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:22-68
+39
+40    <uses-feature
+40-->[:unityLibrary:xrmanifest.androidlib] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-12:31
+41        android:name="android.hardware.vr.headtracking"
+41-->[:unityLibrary:xrmanifest.androidlib] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-56
+42        android:required="true"
+42-->[:unityLibrary:xrmanifest.androidlib] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-32
+43        android:version="1" />
+43-->[:unityLibrary:xrmanifest.androidlib] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-28
+44
+45    <application
+45-->/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:3-83
+46        android:extractNativeLibs="true"
+46-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:31:18-50
+47        android:icon="@mipmap/app_icon"
+47-->/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:16-47
+48        android:label="@string/app_name" >
+48-->/Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:48-80
+49        <meta-data
+49-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:32:9-34:33
+50            android:name="unity.splash-mode"
+50-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:33:13-45
+51            android:value="0" />
+51-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:34:13-30
+52        <meta-data
+52-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:35:9-37:36
+53            android:name="unity.splash-enable"
+53-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-47
+54            android:value="True" />
+54-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:37:13-33
+55        <meta-data
+55-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:38:9-40:36
+56            android:name="unity.launch-fullscreen"
+56-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:39:13-51
+57            android:value="True" />
+57-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:40:13-33
+58        <meta-data
+58-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:41:9-43:36
+59            android:name="unity.auto-report-fully-drawn"
+59-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:42:13-57
+60            android:value="true" />
+60-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:43:13-33
+61        <meta-data
+61-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:44:9-46:36
+62            android:name="unity.strip-engine-code"
+62-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:45:13-51
+63            android:value="true" />
+63-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:46:13-33
+64
+65        <activity
+65-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:48:9-69:20
+66            android:name="com.unity3d.player.UnityPlayerActivity"
+66-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:49:13-66
+67            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+67-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:50:13-194
+68            android:enabled="true"
+68-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:51:13-35
+69            android:exported="true"
+69-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:52:13-36
+70            android:hardwareAccelerated="false"
+70-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:53:13-48
+71            android:launchMode="singleTask"
+71-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:54:13-44
+72            android:resizeableActivity="false"
+72-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:55:13-47
+73            android:screenOrientation="fullUser"
+73-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:56:13-49
+74            android:theme="@style/UnityThemeSelector" >
+74-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:57:13-54
+75            <intent-filter>
+75-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:58:13-64:29
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:59:17-77
+76-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:59:27-74
+77
+78                <action android:name="android.intent.action.MAIN" />
+78-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:61:17-69
+78-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:61:25-66
+79
+80                <category android:name="com.oculus.intent.category.VR" />
+80-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:63:17-74
+80-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:63:27-71
+81            </intent-filter>
+82
+83            <meta-data
+83-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:66:13-68:40
+84                android:name="unityplayer.UnityActivity"
+84-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:67:17-57
+85                android:value="true" />
+85-->[:unityLibrary] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:68:17-37
+86            <meta-data
+86-->[:unityLibrary:xrmanifest.androidlib] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-18:40
+87                android:name="com.oculus.vr.focusaware"
+87-->[:unityLibrary:xrmanifest.androidlib] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:17-56
+88                android:value="true" />
+88-->[:unityLibrary:xrmanifest.androidlib] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:17-37
+89        </activity>
+90
+91        <meta-data
+91-->[:unityLibrary:xrmanifest.androidlib] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:9-23:52
+92            android:name="com.oculus.supportedDevices"
+92-->[:unityLibrary:xrmanifest.androidlib] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-55
+93            android:value="quest|quest2|cambria" />
+93-->[:unityLibrary:xrmanifest.androidlib] /Users/divijjindal/Documents/UnityTestProjects/OfficeVrMetaQuest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-49
+94    </application>
+95
+96</manifest>
