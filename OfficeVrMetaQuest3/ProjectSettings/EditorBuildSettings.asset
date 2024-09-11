@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/Samples/XR Interaction Toolkit/3.0.5/Hands Interaction Demo/HandsDemoScene.unity
+    guid: 3ff35cecbcc52cc42945cf531638a60a
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 968f89a7a1ce4405cbcf0b3d45b9bf86, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7d7cde4a270764c00899ab7beec9588a, type: 2}

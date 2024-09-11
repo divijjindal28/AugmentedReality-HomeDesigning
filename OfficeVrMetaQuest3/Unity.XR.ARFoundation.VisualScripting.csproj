@@ -23,7 +23,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp/bin/Debug/</OutputPath>
-    <DefineConstants>UNITY_2023_2_10;UNITY_2023_2;UNITY_2023;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;ENABLE_NULLDEPTHBUFFER;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_ACCESSIBILITY;TEXTCORE_1_0_OR_NEWER;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;PLATFORM_EXTENDS_VULKAN_PIPELINE_CACHE;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;USE_INPUT_SYSTEM_POSE_CONTROL;USE_STICK_CONTROL_THUMBSTICKS;VISUALSCRIPTING_1_8_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2023_2_10;UNITY_2023_2;UNITY_2023;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;ENABLE_NULLDEPTHBUFFER;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_ACCESSIBILITY;TEXTCORE_1_0_OR_NEWER;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;PLATFORM_EXTENDS_VULKAN_PIPELINE_CACHE;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;USE_INPUT_SYSTEM_POSE_CONTROL;USE_STICK_CONTROL_THUMBSTICKS;VISUALSCRIPTING_1_8_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169;USG0001</NoWarn>
@@ -61,48 +61,68 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2023.2.10f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/ARFaceManagerListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/PointCloudsChangedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/ARTrackedObjectManagerListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/ARHumanBodyManagerListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/ARFaceListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/ARParticipantManagerListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/ARTrackedImageManagerListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Constants.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/GetRaycastsUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/GetHumanBodiesUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/ARCameraManagerListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/ParticipantsChangedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/ARPlaneManagerListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/EnvironmentProbesChangedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/GetPlanesUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/GetParticipantsUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/GetEnvironmentProbesUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/CameraFrameReceivedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/TrackedImagesChangedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/SessionStateChangedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/GetPointCloudsUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/AREnvironmentProbeManagerListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/GetTrackablesUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/AnchorsChangedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/FaceUpdatedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/GetTrackedImagesUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/TrackableManagerListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/ARAnchorManagerListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/MessageListeners/ARPointCloudManagerListener.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/GetAnchorsUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/TrackablesChangedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/SessionStateSwitchUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/AssemblyInfo.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/PlanesChangedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/FacesChangedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/GetFacesUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/HumanBodiesChangedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/Events/EventUnits/TrackedObjectsChangedEventUnit.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Units/GetTrackedObjectsUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/ARTrackedObjectsChangedListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/ARPlanesChangedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/ARFacesChangedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/Deprecated/ARHumanBodyManagerListener.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/Deprecated/ParticipantsChangedEventUnit.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/ARFaceListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/ARHumanBodiesChangedListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/Deprecated/TrackableManagerListener.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/ARHumanBodiesChangedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/ARTrackedImagesChangedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/Deprecated/TrackedImagesChangedEventUnit.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Constants.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/Deprecated/TrackablesChangedEventUnit.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/GetRaycastsUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/GetHumanBodiesUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/ARCameraManagerListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/ARAnchorsChangedListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/Deprecated/PointCloudsChangedEventUnit.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/Deprecated/AnchorsChangedEventUnit.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/GetPlanesUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/ARPlanesChangedListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/GetParticipantsUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/Deprecated/FacesChangedEventUnit.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/ARParticipantsChangedListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/Deprecated/HumanBodiesChangedEventUnit.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/GetEnvironmentProbesUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/CameraFrameReceivedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/Deprecated/ARTrackedImageManagerListener.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/SessionStateChangedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/GetPointCloudsUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/ARTrackedObjectsChangedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/GetTrackablesUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/Deprecated/ARPlaneManagerListener.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/Deprecated/PlanesChangedEventUnit.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/Deprecated/ARParticipantManagerListener.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/ARFacesChangedListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/FaceUpdatedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/Deprecated/AREnvironmentProbeManagerListener.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/AREnvironmentProbesChangedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/Deprecated/ARFaceManagerListener.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/Deprecated/ARTrackedObjectManagerListener.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/GetTrackedImagesUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/GetAnchorsUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/ARTrackableManagerListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/SessionStateSwitchUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/AssemblyInfo.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/Deprecated/ARAnchorManagerListener.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/ARTrackablesChangedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/Deprecated/TrackedObjectsChangedEventUnit.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/ARPointCloudsChangedListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/ARTrackedImagesChangedListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/GetFacesUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/ARParticipantsChangedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/AREnvironmentProbesChangedListener.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/GetTrackedObjectsUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/ARPointCloudsChangedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/Deprecated/EnvironmentProbesChangedEventUnit.deprecated.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/EventUnits/ARAnchorsChangedEventUnit.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Units/Events/MessageListeners/Deprecated/ARPointCloudManagerListener.deprecated.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/VisualScripting/Unity.XR.ARFoundation.VisualScripting.asmdef" />
+    <None Include="Library/PackageCache/com.unity.xr.arfoundation@6.0.0-pre.7/Runtime/VisualScripting/Unity.XR.ARFoundation.VisualScripting.asmdef" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1122,6 +1142,10 @@
     <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
       <Project>{014E3CE5-3F45-71F5-BED7-327A7AD7C0AB}</Project>
       <Name>Unity.VisualScripting.Flow</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.CoreUtils.csproj">
+      <Project>{CAA4A7FA-9749-7CD5-065C-D6C74730D523}</Project>
+      <Name>Unity.XR.CoreUtils</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
       <Project>{88283192-66F2-38CD-AAD7-39F06618472C}</Project>

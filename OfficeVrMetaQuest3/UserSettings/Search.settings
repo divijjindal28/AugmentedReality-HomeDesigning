@@ -13,6 +13,11 @@ scopes = {
 	"last_search.0B486DF2" = ""
 	"OpenInspectorPreview.0B486DF2" = "0"
 	"currentGroup.0B486DF2" = null
+	"picker_window_position_offset.D845A788" = "186;472;320;550"
+	"picker_search_text.D845A788" = "color"
+	"last_search.D845A788" = "color"
+	"OpenInspectorPreview.D845A788" = "0"
+	"currentGroup.D845A788" = null
 }
 providers = {
 	performance = {
@@ -69,6 +74,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	""
 ]
 searchItemFavorites = [
 ]

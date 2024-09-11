@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{341A1D90-4CF0-33BC-1E90-1FCE442CFF0E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneControllor.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CollorPicker/ChangeLineColor.cs">
     <Files>
-      <File FileName="Assets/Scripts/SceneControllor.cs" Line="58" Column="12" />
-      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Runtime/ARFoundation/ARAnchorManager.cs" />
+      <File FileName="Assets/Scripts/CollorPicker/ChangeLineColor.cs" Line="66" Column="64" />
+      <File FileName="Assets/Scripts/CollorPicker/SVImageControl.cs" Line="77" Column="14" />
+      <File FileName="Assets/Scripts/CollorPicker/ColorPickerControl.cs" Line="4" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2b4d9dc9-1e29-4d8f-a415-eaddb517d28c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="24fa4273-a5be-44d5-bb33-283e41ff6ce8" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

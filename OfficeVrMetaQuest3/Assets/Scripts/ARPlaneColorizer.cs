@@ -24,34 +24,23 @@ public class ARPlaneColorizer : MonoBehaviour
         
         void UpdatePlaneColor()
         {
-            Color planeMatColor = Color.gray; //i.e. 'None'
-
-            switch (m_ARPlane.classification)
-            {
-                case PlaneClassification.Floor:
-                    planeMatColor = Color.green;
-                    break;
-                case PlaneClassification.Wall:
-                    planeMatColor = Color.white;
-                    break;
-                case PlaneClassification.Ceiling:
-                    planeMatColor = Color.red;
-                    break;
-                case PlaneClassification.Table:
-                    planeMatColor = Color.yellow;
-                    break;
-                case PlaneClassification.Seat:
-                    planeMatColor = Color.blue;
-                    break;
-                case PlaneClassification.Door:
-                    planeMatColor = Color.magenta;
-                    break;
-                case PlaneClassification.Window:
-                    planeMatColor = Color.cyan;
-                    break;
-            }
+            Color planeMatColor = GetColorByClassification(m_ARPlane.classifications); //i.e. 'None'
 
             planeMatColor.a = 0.33f;
             m_PlaneMeshRenderer.material.color = planeMatColor;
         }
+
+    private Color GetColorByClassification(PlaneClassifications classifications)
+    {
+
+        if (classifications.HasFlag(PlaneClassifications.Floor)) return Color.green;
+        if (classifications.HasFlag(PlaneClassifications.WallFace)) return Color.white;
+        if (classifications.HasFlag(PlaneClassifications.Ceiling)) return Color.red;
+        if (classifications.HasFlag(PlaneClassifications.Table)) return Color.yellow;
+        if (classifications.HasFlag(PlaneClassifications.Seat)) return Color.blue;
+        if (classifications.HasFlag(PlaneClassifications.DoorFrame)) return Color.magenta;
+        if (classifications.HasFlag(PlaneClassifications.WindowFrame)) return Color.cyan;
+
+        return Color.gray;
+    }
 }
